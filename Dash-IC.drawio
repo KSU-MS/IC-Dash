@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2022-09-16T23:24:25.509Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.100" version="15.8.7" etag="PeCAZ4W5WLmHgYgepznm" type="github"><diagram id="XvcRl4XYsSSdvSCHSXBQ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-16T23:27:42.144Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.100" etag="9FBx98Osr-rco1fuWpMw" version="15.8.7" type="github">
+  <diagram id="XvcRl4XYsSSdvSCHSXBQ" name="Page-1">
+    <mxGraphModel dx="1059" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pnBWASeAkO4rSvzLANe--1" value="Teensy&lt;br&gt;4.1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="350" y="230" width="60" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="pnBWASeAkO4rSvzLANe--2" value="RA8875&lt;br&gt;LCD&lt;br&gt;Control&lt;br&gt;Board" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="180" y="160" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="pnBWASeAkO4rSvzLANe--3" value="LCD&lt;br&gt;DIsplay" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="40" y="165" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pnBWASeAkO4rSvzLANe--4" value="CAN&lt;br&gt;1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="310" y="460" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="pnBWASeAkO4rSvzLANe--5" value="CAN&lt;br&gt;2&lt;br&gt;(Emergency)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="160" y="460" width="90" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
